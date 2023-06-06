@@ -1,5 +1,6 @@
 # About Dataset
 
+![dataset-cover](https://github.com/mrMichalR/blueberry_yield/assets/105538433/699561a2-0a7b-4811-addf-b3893a582d37)
 
 **Context**
 
@@ -32,3 +33,5 @@ AverageRainingDays Day The average of raining days of the entire bloom season
 Qu, Hongchun; Obsie, Efrem; Drummond, Frank (2020), “Data for: Wild blueberry yield prediction using a combination of computer simulation and machine learning algorithms”, Mendeley Data, V1, doi: 10.17632/p5hvjzsvn8.1
 
 Dataset is outsourced from here.
+
+Source: https://www.kaggle.com/competitions/playground-series-s3e14/data
